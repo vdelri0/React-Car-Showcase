@@ -1,0 +1,11 @@
+div.ui.image {
+    height: 400px !important;
+}
+
+div.ui.image > img {
+    height: inherit !important;
+}
+
+.description {
+    padding: 0 !important;
+}
