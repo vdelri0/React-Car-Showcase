@@ -1,0 +1,8 @@
+div.ui.visible.content {
+    height: 100% !important;
+    background-color: white;
+}
+
+div.ui.visible.content > img {
+    height: inherit ;
+}
