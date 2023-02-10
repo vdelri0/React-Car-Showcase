@@ -50,7 +50,7 @@ class VerticalMenu extends Component {
 
         <ComparingSection sectionName='Compare'/>
         <Menu.Item>
-          <Input icon='search'  placeholder='Search mail...' value={this.state.value} onChange={this.handleSearch} />
+          <Input icon='search'  placeholder='Search' value={this.state.value} onChange={this.handleSearch} />
         </Menu.Item>
       </Menu>
     )
